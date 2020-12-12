@@ -1,0 +1,30 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="CB5B3A2F-03FF-F720-3260-1CC62CEE6B03" schemaObject="1B616B55-7A08-CCFE-CAE3-50D058BF9E3D" name="TEST">
+<sourceConnName>Nala</sourceConnName>
+<sourceObjSchema>NALA</sourceObjSchema>
+<sourceObjName>TEST</sourceObjName>
+<createdBy>nyong</createdBy>
+<createdTime>2020-12-12 17:53:24 UTC</createdTime>
+<ownerDesignName>Nala_member</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="SEQ" id="4F991644-3ACA-1626-DA78-2446E83F6797">
+<sourceConnName>Nala</sourceConnName>
+<sourceObjSchema>TEST</sourceObjSchema>
+<sourceObjName>SEQ</sourceObjName>
+<createdBy>nyong</createdBy>
+<createdTime>2020-12-12 17:53:24 UTC</createdTime>
+<ownerDesignName>Nala_member</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>1</dataTypePrecision>
+<dataTypeScale>0</dataTypeScale>
+<ownDataTypeParameters>,1,0</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+</Table>

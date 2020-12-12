@@ -1,0 +1,11 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableSpaceOraclev10g class="oracle.dbtools.crest.model.design.storage.oracle.v10g.TableSpaceOraclev10g" name="SYSTEM" directorySegmentName="seg_0" id="879E1BA1-C646-548A-E80C-4BE3DE762650">
+<sourceConnName>Nala</sourceConnName>
+<sourceObjSchema>NALA</sourceObjSchema>
+<sourceObjName>SYSTEM</sourceObjName>
+<createdBy>nyong</createdBy>
+<createdTime>2020-12-12 17:53:24 UTC</createdTime>
+<ownerDesignName>Nala_member</ownerDesignName>
+<emUniformSize>0</emUniformSize>
+<extentManagement>LOCAL</extentManagement>
+</TableSpaceOraclev10g>

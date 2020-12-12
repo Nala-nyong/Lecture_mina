@@ -1,0 +1,9 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<UserOraclev10g class="oracle.dbtools.crest.model.design.storage.oracle.v10g.UserOraclev10g" name="NALA" directorySegmentName="seg_0" id="426CA32B-B2EB-36A9-B4B2-8BD2EA250761">
+<sourceConnName>Nala</sourceConnName>
+<sourceObjName>NALA</sourceObjName>
+<createdBy>nyong</createdBy>
+<createdTime>2020-12-12 17:53:24 UTC</createdTime>
+<ownerDesignName>Nala_member</ownerDesignName>
+<schemaObject>1B616B55-7A08-CCFE-CAE3-50D058BF9E3D</schemaObject>
+</UserOraclev10g>

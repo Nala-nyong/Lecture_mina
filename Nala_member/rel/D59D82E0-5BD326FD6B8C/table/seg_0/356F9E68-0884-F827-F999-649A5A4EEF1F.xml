@@ -1,0 +1,75 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="356F9E68-0884-F827-F999-649A5A4EEF1F" schemaObject="1B616B55-7A08-CCFE-CAE3-50D058BF9E3D" name="SUPERBAND_MEMBER">
+<sourceConnName>Nala</sourceConnName>
+<sourceObjSchema>NALA</sourceObjSchema>
+<sourceObjName>SUPERBAND_MEMBER</sourceObjName>
+<createdBy>nyong</createdBy>
+<createdTime>2020-12-12 17:53:24 UTC</createdTime>
+<ownerDesignName>Nala_member</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="SEQ" id="93DC7D93-A2A4-2AF5-D057-AE2AF2E6DFA4">
+<sourceConnName>Nala</sourceConnName>
+<sourceObjSchema>SUPERBAND_MEMBER</sourceObjSchema>
+<sourceObjName>SEQ</sourceObjName>
+<createdBy>nyong</createdBy>
+<createdTime>2020-12-12 17:53:24 UTC</createdTime>
+<ownerDesignName>Nala_member</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>3</dataTypePrecision>
+<dataTypeScale>0</dataTypeScale>
+<ownDataTypeParameters>,3,0</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="NAME" id="51F95BAF-0C77-8CE8-1BCF-081CCD7BB9A0">
+<sourceConnName>Nala</sourceConnName>
+<sourceObjSchema>SUPERBAND_MEMBER</sourceObjSchema>
+<sourceObjName>NAME</sourceObjName>
+<createdBy>nyong</createdBy>
+<createdTime>2020-12-12 17:53:24 UTC</createdTime>
+<ownerDesignName>Nala_member</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>30 BYTE</dataTypeSize>
+<ownDataTypeParameters>30 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="POSITION" id="DA5810F0-7F58-46FD-BCC4-FA20CAAE46FC">
+<sourceConnName>Nala</sourceConnName>
+<sourceObjSchema>SUPERBAND_MEMBER</sourceObjSchema>
+<sourceObjName>POSITION</sourceObjName>
+<createdBy>nyong</createdBy>
+<createdTime>2020-12-12 17:53:24 UTC</createdTime>
+<ownerDesignName>Nala_member</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>100 BYTE</dataTypeSize>
+<ownDataTypeParameters>100 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="FINAL_YN" id="818A90BF-FF55-6DE8-645F-7C5EB7B65C6E">
+<sourceConnName>Nala</sourceConnName>
+<sourceObjSchema>SUPERBAND_MEMBER</sourceObjSchema>
+<sourceObjName>FINAL_YN</sourceObjName>
+<createdBy>nyong</createdBy>
+<createdTime>2020-12-12 17:53:24 UTC</createdTime>
+<ownerDesignName>Nala_member</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>1 BYTE</dataTypeSize>
+<ownDataTypeParameters>1 BYTE,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+</Table>

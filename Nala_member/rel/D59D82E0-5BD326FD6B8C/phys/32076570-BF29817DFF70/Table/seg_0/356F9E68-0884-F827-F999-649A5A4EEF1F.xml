@@ -1,0 +1,36 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableProxyOraclev11g class="oracle.dbtools.crest.model.design.storage.oracle.v11g.TableProxyOraclev11g" name="SUPERBAND_MEMBER" directorySegmentName="seg_0" id="356F9E68-0884-F827-F999-649A5A4EEF1F">
+<createdBy>nyong</createdBy>
+<createdTime>2020-12-12 17:53:24 UTC</createdTime>
+<ownerDesignName>Nala_member</ownerDesignName>
+<schemaObject>1B616B55-7A08-CCFE-CAE3-50D058BF9E3D</schemaObject>
+<logging>YES</logging>
+<partitionedRowMovement>DISABLE</partitionedRowMovement>
+<segment>18811644-777B-C29D-889F-E4016E454980</segment>
+<tableSpace>879E1BA1-C646-548A-E80C-4BE3DE762650</tableSpace>
+<temporaryChanged>false</temporaryChanged>
+<accessDriverType>oracle_loader</accessDriverType>
+<rejectLimit></rejectLimit>
+<columnProxies itemClass="oracle.dbtools.crest.model.design.storage.oracle.v12c.ColumnProxyOraclev12c">
+<ColumnProxy name="NAME" id="51F95BAF-0C77-8CE8-1BCF-081CCD7BB9A0">
+<createdBy>nyong</createdBy>
+<createdTime>2020-12-12 17:53:24 UTC</createdTime>
+<ownerDesignName>Nala_member</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="FINAL_YN" id="818A90BF-FF55-6DE8-645F-7C5EB7B65C6E">
+<createdBy>nyong</createdBy>
+<createdTime>2020-12-12 17:53:24 UTC</createdTime>
+<ownerDesignName>Nala_member</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="SEQ" id="93DC7D93-A2A4-2AF5-D057-AE2AF2E6DFA4">
+<createdBy>nyong</createdBy>
+<createdTime>2020-12-12 17:53:24 UTC</createdTime>
+<ownerDesignName>Nala_member</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="POSITION" id="DA5810F0-7F58-46FD-BCC4-FA20CAAE46FC">
+<createdBy>nyong</createdBy>
+<createdTime>2020-12-12 17:53:24 UTC</createdTime>
+<ownerDesignName>Nala_member</ownerDesignName>
+</ColumnProxy>
+</columnProxies>
+</TableProxyOraclev11g>
